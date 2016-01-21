@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Cuisino]]></title>
+        <description><![CDATA[Cuisino]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 21 Jan 2016 16:26:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Help Your Team Manage Stress, Anxiety, and Burnout]]></title>
+            <description><![CDATA[<article><h1>Help Your Team Manage Stress, Anxiety, and Burnout</h1><p>It can be tough enough to manage your own stress. But how can you, as a manager, help the members of your team handle their feelings of stress, burnout, or disengagement? Because work is getting more demanding and complex, and because many of us now work in 24/7 environments, anxiety and burnout are not uncommon.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/061d3593853c8f0b883ceaafbc5d2c5d164cb508.jpg"></article>]]></description>
+            <link>https://hbr.org/2016/01/help-your-team-manage-stress-anxiety-and-burnout</link>
+            <guid isPermaLink="false">31d99b29-cd67-486f-ab0e-53846b7a940f</guid>
+            <pubDate>Thu, 21 Jan 2016 16:26:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
